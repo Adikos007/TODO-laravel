@@ -1,7 +1,7 @@
 <h1>Jak Spustist Aplikaci.</h1>
 
 Co je potřeba <br>
-Node.js. Download link: https://nodejs.org/en/download
+Node.js. Download link: https://nodejs.org/en/download <br>
 composer Download link: https://getcomposer.org/download/
 
 <h1>Jak aplikaci spustit</h1><br>
