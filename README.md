@@ -8,8 +8,9 @@ composer Download link: https://getcomposer.org/download/
 
  1,Naklonovani repozitare pomoci url: https://github.com/Adikos007/TODO-laravel.git<br>
 
- 2, instalace npm<br> 
-   Do terminalu napiste prikaz: npm install
+ 2, instalace npm a composer<br> 
+   Pro composer - Do terminalu napiste prikaz: composer install<br>
+   Pro npm - Do terminalu napiste prikaz: npm install
 
  3,Spusteni aplikace<br> 
    Do terminalu napiste prikaz: php artisan serve
